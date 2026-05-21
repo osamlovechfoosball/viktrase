@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f8f9"/>
+  <path d="M0 390 C180 330 348 350 520 310 C750 256 950 230 1200 152 V630 H0 Z" fill="#dfe7ea"/>
+  <path d="M156 502 L520 172 C558 138 620 140 658 176 L1014 520" fill="none" stroke="#0f6f8f" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M156 502 L520 172 C558 138 620 140 658 176 L1014 520" fill="none" stroke="#d7f0f6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="156" cy="502" r="34" fill="#f2b84b" stroke="#153342" stroke-width="10"/>
+  <circle cx="520" cy="172" r="34" fill="#f2b84b" stroke="#153342" stroke-width="10"/>
+  <circle cx="1014" cy="520" r="34" fill="#f2b84b" stroke="#153342" stroke-width="10"/>
+  <text x="110" y="174" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="86" fill="#16313f">ВиК Трасе</text>
+  <text x="112" y="250" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="40" fill="#0f5c78">Външни ВиК мрежи и ремонти</text>
+</svg>
